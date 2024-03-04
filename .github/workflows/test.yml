@@ -1,4 +1,4 @@
-name: morning
+name: test
 on:
   schedule:
   - cron:  '42 23 * * *'
